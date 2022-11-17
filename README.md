@@ -17,3 +17,8 @@ helpful links:
 plan of action:
     - create a simple timer extension
     - then, ensue chaos.
+
+technical challenges:
+    - difficulty figuring out how to run background functions
+    - not being able to call other windows outside of the extension 
+    - no free trivia api's, so we had to manually scrape our own (we WANTED to use AJAX FETCH, WE PROMISE!)
