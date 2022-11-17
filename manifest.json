@@ -1,0 +1,11 @@
+{
+    "name": "Orodomop Timer",
+    "version": "1.0.0",
+    "description": "Essentially functions opposite of the Pomodoro Timer. Ensues chaos the longer you focus.",
+    "manifest_version": 3,
+    "author": "Greg Jenner and Nathan Cho",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Orodomop Timer"
+    }
+}
